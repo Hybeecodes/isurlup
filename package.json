@@ -1,5 +1,5 @@
 {
-  "name": "isalive",
+  "name": "isurlup",
   "version": "1.0.0",
   "description": "A command line tool that tells whether a website is functional by consuming the isitup.org",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "author": "Hybeecodes",
   "license": "ISC",
   "bin": {
-    "isalive": "./index.js"
+    "isurlup": "./index.js"
   },
   "dependencies": {
     "axios": "^0.18.0",
