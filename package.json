@@ -1,0 +1,18 @@
+{
+  "name": "isalive",
+  "version": "1.0.0",
+  "description": "A command line tool that tells whether a website is functional by consuming the isitup.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hybeecodes",
+  "license": "ISC",
+  "bin": {
+    "isalive": "./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "commander": "^2.19.0"
+  }
+}
