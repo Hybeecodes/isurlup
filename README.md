@@ -2,7 +2,7 @@
 A command line tool that tells whether a website is alive (active) or down. 
 
 # isurlup :
-isalive [URL]
+isurlup [URL]
 
 # Example :
     command:  isurlup www.npmjs.org
